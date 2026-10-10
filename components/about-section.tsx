@@ -61,10 +61,10 @@ export function AboutSection() {
                 }`}
             >
               <p className="text-xl text-muted-foreground leading-relaxed group-hover:text-foreground transition-colors duration-300 group-hover:[text-shadow:0_0_8px_rgba(139,92,246,0.4)]">
-                Étudiant en BTS Services Informatiques aux Organisations (SIO), option SISR, je suis passionné par l’informatique et les nouvelles technologies. Cet intérêt se reflète aussi bien dans mes études que dans mon temps libre, où je cherche constamment à développer mes compétences.
+                Titulaire d’un BTS Services Informatiques aux Organisations (SIO), option SISR, je suis passionné par l’informatique et les nouvelles technologies. Je m’intéresse particulièrement aux réseaux informatiques et à la cybersécurité, des domaines dans lesquels je souhaite continuer à apprendre et à développer mes compétences.
               </p>
               <p className="text-xl text-muted-foreground leading-relaxed mt-6 group-hover:text-foreground transition-colors duration-300 group-hover:[text-shadow:0_0_8px_rgba(139,92,246,0.4)]">
-                Je m’intéresse particulièrement aux domaines des réseaux et de la cybersécurité, qui représentent pour moi des enjeux majeurs du numérique actuel. Curieux et motivé, j’aime comprendre le fonctionnement des systèmes et relever les défis liés à la sécurisation des infrastructures informatiques.
+                Actuellement intérimaire au sein de l’entreprise SNF, sur le site industriel d’Andrézieux-Bouthéon, je travaille dans l’atelier poudre. Cette expérience me permet de mettre à profit mes qualités professionnelles, notamment la rigueur, l’adaptation et le sens des responsabilités.
               </p>
             </div>
 
@@ -79,10 +79,10 @@ export function AboutSection() {
                 }`}
             >
               <p className="text-xl text-muted-foreground leading-relaxed mt-6 group-hover:text-foreground transition-colors duration-300 group-hover:[text-shadow:0_0_8px_rgba(139,92,246,0.4)]">
-                En parallèle, je pratique le sport, qui m’apporte rigueur et équilibre, et je m’intéresse aux jeux vidéo, notamment pour leur aspect technique et leur architecture.
+                En dehors du travail, je pratique le sport, qui m’aide à rester discipliné et à garder un bon équilibre au quotidien. Je m’intéresse également aux jeux vidéo, notamment à leur fonctionnement et aux aspects techniques qui se cachent derrière leur conception.
               </p>
               <p className="text-xl text-muted-foreground leading-relaxed mt-6 group-hover:text-foreground transition-colors duration-300 group-hover:[text-shadow:0_0_8px_rgba(139,92,246,0.4)]">
-                À l’issue de mon BTS, je souhaite poursuivre mes études en licence professionnelle, mention Administration et Sécurité des Systèmes et des Réseaux, à l’Université Claude Bernard Lyon 1, afin de renforcer mes compétences et me préparer à une carrière dans l’informatique.
+                Je souhaite poursuivre mes études en intégrant la licence professionnelle <strong>ESSIR (Exploitation et Sécurité des Systèmes Informatiques et Réseaux)</strong> à l’Université Claude Bernard Lyon 1, sur le campus de la Doua, afin d’approfondir mes compétences en réseaux et en cybersécurité et de préparer mon avenir professionnel dans ce domaine.
               </p>
             </div>
           </div>

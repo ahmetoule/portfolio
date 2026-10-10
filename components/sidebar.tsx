@@ -126,7 +126,7 @@ export function Sidebar() {
         {/* Profile Info - Row on mobile, Col on desktop */}
         <div className="flex items-center gap-3 md:flex-col md:gap-0">
           <div className="relative w-10 h-10 md:w-32 md:h-32 rounded-full overflow-hidden border-2 md:border-4 border-primary/30 transition-all duration-500 hover:scale-105 animate-profile-pulse md:mb-4 group cursor-pointer">
-            <Image src="/photoID.png" alt="BICER Ahmet" fill className="object-cover transition-transform duration-700 group-hover:rotate-3 group-hover:scale-110" priority />
+            <Image src="/iddd.png" alt="BICER Ahmet" fill className="object-cover transition-transform duration-700 group-hover:rotate-3 group-hover:scale-110" priority />
             <div className="absolute inset-0 bg-primary/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
           </div>
 
@@ -289,7 +289,7 @@ export function Sidebar() {
           <Linkedin className="w-5 h-5 relative z-10 transition-transform duration-300 group-hover:rotate-12 group-hover:scale-110" />
         </Link>
         <Link
-          href="https://github.com/ahmetouleh"
+          href="https://github.com/ahmetoule"
           target="_blank"
           rel="noopener noreferrer"
           className="group relative p-2 text-sidebar-foreground/60 hover:text-primary transition-all duration-300"

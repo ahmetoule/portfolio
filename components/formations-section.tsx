@@ -8,12 +8,12 @@ import { AnimatedTitle } from "@/components/animated-title"
 const formations = [
   {
     period: "2024-2026",
-    status: "En cours",
+    status: "Terminé",
     title: "BTS SERVICES INFORMATIQUES AUX ORGANISATIONS",
     option: "Option SISR",
     location: "Lycée Georges Brassens",
     city: "Rive-de-Gier",
-    isCurrent: true,
+    isCurrent: false,
   },
   {
     period: "2021-2022",
@@ -41,8 +41,8 @@ export function FormationsSection() {
   const handleDownloadCV = () => {
     // Créer un lien de téléchargement
     const link = document.createElement("a")
-    link.href = "/CV.pdf"
-    link.download = "CV.pdf"
+    link.href = "/cvSNF.pdf"
+    link.download = "cvSNF.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)

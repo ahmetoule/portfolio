@@ -20,19 +20,19 @@ export function Epreuve6Section() {
                     <div className="bg-card border border-border p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300">
                         <h3 className="text-2xl font-semibold text-foreground mb-4">Épreuve E6 – Projet informatique</h3>
                         <p className="mb-6">
-                            L’épreuve E6 du BTS SIO vise à évaluer la capacité de l’étudiant à conduire un projet informatique dans un contexte professionnel. Ce projet, réalisé au cours de la formation et le plus souvent en groupe, s’appuie sur une problématique concrète rencontrée en entreprise ou en environnement pédagogique.
+                            L'épreuve E6 du BTS SIO (option SISR) m'a permis de mettre en pratique l'ensemble des compétences acquises au cours de ma formation, en conduisant un projet informatique complet dans un contexte professionnel.
                         </p>
                         <p>
-                            L’objectif de cette épreuve est de vérifier la capacité de l’étudiant à analyser un besoin, à concevoir une solution technique adaptée, à mettre en œuvre cette solution, puis à justifier les choix techniques réalisés. Une attention particulière est portée à l’organisation du projet, à la démarche suivie et à la compréhension globale de la solution mise en place.
+                            Pour cette épreuve, j'ai fait le choix de présenter un projet portant sur le déploiement et l'administration d'<strong>Active Directory</strong> couplé à <strong>GLPI</strong> (Gestionnaire Libre de Parc Informatique). Ce projet visait à répondre à des besoins concrets d'entreprise : la gestion sécurisée des identités et des accès au sein d'un domaine, ainsi que la centralisation de l'assistance utilisateur et de la gestion du parc matériel.
                         </p>
                     </div>
 
                     <div className="bg-card border border-border p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300">
                         <p className="mb-6">
-                            Dans le cadre de l’option SISR, le projet concerne principalement des domaines tels que l’administration des systèmes, la gestion des réseaux, la sécurisation des infrastructures, la virtualisation ou encore la mise à disposition de services informatiques. Lors de l’épreuve orale, l’étudiant doit présenter le projet, détailler son rôle personnel, les technologies et outils utilisés, les contraintes et difficultés rencontrées, ainsi que les résultats obtenus.
+                            Lors de ma soutenance de fin d'études, j'ai pu démontrer ma capacité à analyser un besoin, concevoir une solution technique adaptée, et justifier mes choix d'infrastructure. J'ai détaillé la mise en place de ces services, la configuration des stratégies de groupe (GPO) et l'intégration globale de la solution au réseau.
                         </p>
                         <p>
-                            Cette section du portfolio sera complétée une fois le projet E6 finalisé, afin de présenter de manière détaillée les travaux réalisés et les compétences professionnelles acquises.
+                            <em>Note : Mon dossier technique de présentation ayant été conservé par le centre d'examen, il n'est pas disponible en téléchargement ici. La validation de cette épreuve m'a cependant permis d'obtenir mon diplôme de BTS SIO avec succès.</em>
                         </p>
                     </div>
 

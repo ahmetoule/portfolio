@@ -147,8 +147,8 @@ export function HeroSection() {
       className="min-h-screen flex flex-col items-center justify-center relative px-8 overflow-hidden"
     >
       <div className="absolute inset-0 bg-gradient-to-br from-background via-background to-primary/5" />
-      <MatrixRain />
-      <CodeBackground />
+      {mounted && <MatrixRain />}
+      {mounted && <CodeBackground />}
 
       <div className="absolute inset-0 bg-[linear-gradient(rgba(139,92,246,0.03)_1px,transparent_1px),linear-gradient(90deg,rgba(139,92,246,0.03)_1px,transparent_1px)] bg-[size:50px_50px]" />
 
