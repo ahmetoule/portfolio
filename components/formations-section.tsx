@@ -39,9 +39,9 @@ export function FormationsSection() {
   const { ref, isInView } = useInView({ threshold: 0.1 })
 
   const handleDownloadCV = () => {
-    // Créer un lien de téléchargement
+    // Créer un lien de téléchargement avec anti-cache pour toujours obtenir le fichier à jour
     const link = document.createElement("a")
-    link.href = "/cvSNF.pdf"
+    link.href = `/cvSNF.pdf?v=${Date.now()}`
     link.download = "cvSNF.pdf"
     document.body.appendChild(link)
     link.click()
